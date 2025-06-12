@@ -15,13 +15,17 @@ Score system with display
 
 
 Game over and victory screens with replay option:
+
 https://github.com/user-attachments/assets/6d1d035f-c174-4b82-aa70-46de2b908800
 
 
 
 Requirements:
+
 Python 3.7+
+
 Pygame library
+
 Install Pygame via pip if you haven't already
 
 File Structure:
