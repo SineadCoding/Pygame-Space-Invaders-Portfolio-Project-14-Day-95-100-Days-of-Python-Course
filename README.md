@@ -27,7 +27,7 @@ Game over and victory screens with replay option:
 
 https://github.com/user-attachments/assets/6d1d035f-c174-4b82-aa70-46de2b908800
 
-
+#
 
 Requirements:
 
@@ -37,6 +37,7 @@ Pygame library
 
 Install Pygame via pip if you haven't already
 
+#
 
 File Structure:
 
@@ -44,11 +45,13 @@ main.py: Main game logic
 
 content/: Folder containing all required assets (background, alien sprites, rocket, bullets, blocks, etc.)
 
+#
 
 How to Run:
 
 Ensure your working directory contains main.py and a content/ folder with all necessary images. Then run:
 
+#
 
 Controls:
 
@@ -58,6 +61,7 @@ Right Arrow: Move rocket right
 
 Spacebar: Fire bullet
 
+#
 
 Notes:
 
