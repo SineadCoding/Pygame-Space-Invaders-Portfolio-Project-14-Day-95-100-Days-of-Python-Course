@@ -1,4 +1,4 @@
-# Pygame-Space-Invaders-Portfolio-Project-14-Day-95-100-Days-of-Python-Course
+# Pygame Space Invaders Portfolio Project 14 Day 95 100 Days of Python Course
 My (single level) version of the classic arcade game Breakout using Pygame.
 
 This is a custom implementation of the classic Space Invaders game built with Pygame. It features pixel-style graphics, alien animations, player lives, and a score system. The objective is to shoot down all invading aliens before running out of rockets.
