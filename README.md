@@ -6,8 +6,8 @@ This is a custom implementation of the classic Space Invaders game built with Py
 https://github.com/user-attachments/assets/6632fe65-bf77-494c-aaa7-238e754b5167
 
 #
-![Screenshot 2025-06-12 101507](https://github.com/user-attachments/assets/43d75995-360b-45a9-bad0-d101b388b513)
-![Screenshot 2025-06-12 101655](https://github.com/user-attachments/assets/45fc73ac-a869-46d2-8275-b0a3f19b59e4)
+
+![Screenshot 2025-06-12 101439](https://github.com/user-attachments/assets/f45928c4-38ab-4e2e-bb13-65a2de550a0a)
 
 Features:
 
